@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that demonstrates a common off-by-one error in loops.  The program initializes a counter to 0 and then iterates a loop 10 times. The expected final value would be 11, but it is actually 10. The solution file shows how to fix this common mistake.
